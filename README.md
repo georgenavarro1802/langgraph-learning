@@ -120,7 +120,6 @@ python human_in_loop.py
 Create a `.env` file with your API keys (needed for `ai_workflow.py`):
 ```
 OPENAI_API_KEY=sk-xxx
-ANTHROPIC_API_KEY=sk-ant-xxx
 ```
 
 ## Requirements
